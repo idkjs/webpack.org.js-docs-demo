@@ -1,6 +1,6 @@
 import _ from "lodash";
 import "./style.css";
-import Icon from "./icon.png";
+import Icon from "./icon2.png";
 
 function component() {
   var element = document.createElement("div");
@@ -9,7 +9,7 @@ function component() {
 
   element.classList.add("hello");
 
-  // add icon and image to the existing div.
+  // add icon2 and image to the existing div.
   var myIcon = new Image();
   myIcon.src = Icon;
 

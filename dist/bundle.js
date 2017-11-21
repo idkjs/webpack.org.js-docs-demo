@@ -67,7 +67,7 @@
 /* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "6336f9ce7a637380ba3ddb2ec76a4f95.png";
+module.exports = __webpack_require__.p + "6773c3999d7f22abc15604530a6f7496.png";
 
 /***/ }),
 /* 1 */
@@ -79,8 +79,8 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_lodash___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_lodash__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__style_css__ = __webpack_require__(5);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__style_css___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__style_css__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__icon_png__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__icon_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__icon_png__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__icon2_png__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__icon2_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__icon2_png__);
 
 
 
@@ -92,9 +92,9 @@ function component() {
 
   element.classList.add("hello");
 
-  // add icon and image to the existing div.
+  // add icon2 and image to the existing div.
   var myIcon = new Image();
-  myIcon.src = __WEBPACK_IMPORTED_MODULE_2__icon_png___default.a;
+  myIcon.src = __WEBPACK_IMPORTED_MODULE_2__icon2_png___default.a;
 
   element.appendChild(myIcon);
 
