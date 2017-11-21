@@ -83,7 +83,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__icon_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__icon_png__);
 
 
-// import Paris from "./paris.jpeg";
 
 
 function component() {
@@ -98,10 +97,6 @@ function component() {
   myIcon.src = __WEBPACK_IMPORTED_MODULE_2__icon_png___default.a;
 
   element.appendChild(myIcon);
-  // var myParis = new Image();
-  // myParis.src = Paris;
-
-  // element.appendChild(myParis);
 
   return element;
 }
