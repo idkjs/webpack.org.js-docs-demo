@@ -33,3 +33,9 @@
 }
 </style>
 ```
+
+## Loading Images
+
+- install file loader:
+- run `npm install --save-dev file-loader`
+
